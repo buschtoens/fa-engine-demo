@@ -1,0 +1,11 @@
+{
+  "name": "foo-engine",
+  "keywords": [
+    "ember-addon",
+    "ember-engine"
+  ],
+  "dependencies": {
+    "ember-cli-htmlbars": "*",
+    "ember-font-awesome": "*"
+  }
+}
